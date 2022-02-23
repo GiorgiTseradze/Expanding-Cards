@@ -1,7 +1,7 @@
-Expanding Cards
+# Expanding Cards
 This project is a simple Expanding Cards.
 
-Technologies
+## Technologies
 Project is created with:
 
 HTML 
